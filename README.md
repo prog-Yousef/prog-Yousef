@@ -48,10 +48,3 @@ I build full‑stack and AI‑enabled applications: backend services, RAG pipeli
 
 ---
 
-If you want, I can now:
-
-* further shorten the bio to a single line
-* add or remove specific badges
-* generate a PNG preview of this README for your portfolio (I can produce a clean image of the content)
-
-Tell me which of those and I’ll update the canvas and generate the preview.
