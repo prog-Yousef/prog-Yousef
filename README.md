@@ -11,8 +11,7 @@
 
 ## ✨ About me
 
-I build full‑stack and AI‑enabled applications: backend services, RAG pipelines, and user interfaces. I enjoy shipping pragmatic systems that balance accuracy, cost, and privacy—for example, deploying local LLM stacks and production RAG flows.
-
+I’m a full-stack JavaScript developer who loves building real, practical systems  especially backend logic, APIs, and AI-powered features. I’m passionate about coding, I enjoy experimenting with new ideas, and I like improving performance based on data and testing. I also apply this mindset in trading building models, testing strategies, and searching for a real edge in the markets. I enjoy working with others, sharing ideas, and building things as a team — when everyone contributes, better solutions come out.
 ## 💼 Experience (short)
 
 * **AI & Full Stack Engineer — Bostr AB** (Sweden) — Dec 2024 – Apr 2025
@@ -36,7 +35,7 @@ I build full‑stack and AI‑enabled applications: backend services, RAG pipeli
 
 ## 🚀 Selected projects
 
-* **Some-of-my-projects** — a curated collection of personal projects and demos. Browse code, demos, and READMEs: [https://github.com/prog-Yousef/Some-of-my-projects](https://github.com/prog-Yousef/Some-of-my-projects)
+* **Some-of-my-projects** a curated collection of personal projects and demos. Browse code, demos, and READMEs: [https://github.com/prog-Yousef/Some-of-my-projects](https://github.com/prog-Yousef/Some-of-my-projects)
 * More repos and examples on my GitHub: [https://github.com/prog-Yousef](https://github.com/prog-Yousef)
 
 ## 📫 Contact
